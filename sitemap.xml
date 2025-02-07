@@ -3,7 +3,13 @@
     <url>
         <loc>https://www.schwegmann-consulting.com/</loc>
         <lastmod>2025-02-07</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://www.schwegmann-consulting.com/impressum</loc>
+        <lastmod>2025-02-07</lastmod>
+    </url>
+    <url>
+        <loc>https://www.schwegmann-consulting.com/datenschutzerklärung</loc>
+        <lastmod>2025-02-07</lastmod>
     </url>
 </urlset>
